@@ -1,7 +1,7 @@
 ﻿//#pragma warning disable IDE0051 // Usuń nieużywane prywatne składowe
 #pragma warning disable IDE0060 // Usuń nieużywany parametr
 #pragma warning disable IDE0044 // Dodaj modyfikator tylko do odczytu
-#zmiana 123
+// komentarz prawidlowy
 
 using System;
 using System.Collections.Generic;
